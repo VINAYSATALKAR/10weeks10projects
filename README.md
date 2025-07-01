@@ -13,8 +13,8 @@ Welcome to my self-driven challenge where I build 1 new project every week to sh
 | Week | Project Name          | Tech Stack             | GitHub Folder Link     |
 |------|-----------------------|------------------------|------------------------|
 | 1    | Portfolio Website     | React + Tailwind css      | [Week01](./Week01-Portfolio-Website) |
-| 2    | ToDo REST API         | Node.js + Express      | [Week02](./Week02-Todo-API)         |
-| 3    | Responsive Clone      | HTML + CSS             | [Week03](./Week03-Responsive-Clone) |
+| 2    | Coming Soon         | Coming Soon      | [Week02](./Week02-Todo-API)         |
+| 3    | Coming Soon      | Stay tuned            | [Week03](./Week03-Responsive-Clone) |
 
 ...
 
