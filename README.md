@@ -1,1 +1,29 @@
-# 10weeks10projects
+# 🚀 Ten Projects Ten Week Challenge
+
+Welcome to my self-driven challenge where I build 1 new project every week to sharpen my development skills and share openly.
+
+📅 Started: July 1, 2025  
+🎯 Goal: 10 Weeks – 10 Projects – Real Growth  
+📍 Hashtag: #10Projects10weeks
+
+---
+
+## 🔥 Projects List
+
+| Week | Project Name          | Tech Stack             | GitHub Folder Link     |
+|------|-----------------------|------------------------|------------------------|
+| 1    | Portfolio Website     | React + Bootstrap      | [Week01](./Week01-Portfolio-Website) |
+| 2    | ToDo REST API         | Node.js + Express      | [Week02](./Week02-Todo-API)         |
+| 3    | Responsive Clone      | HTML + CSS             | [Week03](./Week03-Responsive-Clone) |
+
+...
+
+---
+
+## 💡 Why I'm doing this?
+
+- Build consistency
+- Grow public proof of work
+- Explore multiple technologies
+- Inspire others to start building too
+
